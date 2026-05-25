@@ -1,0 +1,39 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 70%;
+    margin: 40px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.role {
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+
+h2 {
+    color: black;
+}
+
+ul li {
+    padding: 5px;
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+}
